@@ -57,5 +57,3 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ```
 
-Se quiser, posso também incluir instruções para deploy (como no Vercel ou Netlify), ou adicionar imagens/capturas de tela do app. Deseja isso?
-```
